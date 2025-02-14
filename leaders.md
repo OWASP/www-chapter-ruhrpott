@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Christian Becker](mailto:christian.becker@owasp.org)
+* [Sven Schluter](mailto:sven.schluter@owasp.org)
