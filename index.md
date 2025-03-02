@@ -15,7 +15,6 @@ Welcome to the OWASP Ruhrpott Chapter, part of the [OWASP Germany](https://owasp
 
 No matter your background—whether you're an experienced security expert, a developer, a consultant, or just starting to explore software and application security — our community provides a space for learning and connection. Through diverse events and initiatives, we aim to cultivate an open and engaging environment where members can share knowledge, build networks, and develop their skills.
 
-
 ## Events 
 
 We are running **regular Chapter meetings every 2-3 months**, mostly **in-person** at different venues in the **Ruhrpott** area. 
@@ -28,14 +27,12 @@ Feel free to refer colleagues or acquaintances to our website or individual meet
 
 Stay informed about our events by joining the [OWASP Ruhrpott Meetup Group](https://www.meetup.com/notyetdefined) or visiting our [Upcoming Events](https://owasp.org/www-chapter-ruhrpott#div-nextevent) page.
 
-
 ### Agenda
 
 Come along for an evening of good food, drinks, and great conversations while getting to know more about OWASP.
 
 Our events often include a **guest speaker** who delves into various topics such as information security, cloud security, AI/ML security, and software security as a whole.  
 Before and after the talks, attendees have plenty of time to **connect, exchange ideas, and network**.
-
 
 ### Past events
 
@@ -52,13 +49,12 @@ We welcome speakers of all levels! You don't need to be a talk pro or seasoned p
 The OWASP Ruhrpott Stammtisch was formed in 2015 by Christian Becker, Sven Schlüter and Tim Günther. 
 In 2025 the Stammtisch became an official OWASP Chapter. 
 
-
 ## Participation
 The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
 Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. 
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
+Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/), and [Community Slack Channel](https://owasp.slack.com/). We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
 
 Next Meeting/Event
 ---------------------
