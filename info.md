@@ -11,7 +11,7 @@
 * [Code of Conduct](https://owasp.org/www-policy/operational/conferences-events.html)
 
 ### Social Links
-* [Meetup](#)
+* [Meetup](https://www.meetup.com/owasp-ruhrpott-chapter/)
 
 ### Code Repository
 * [Page Repo](https://github.com/OWASP/www-chapter-ruhrpott)
