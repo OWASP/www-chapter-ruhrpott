@@ -9,7 +9,7 @@ tags: ruhrpott
 
 ## Next Events
 
-OWASP Ruhrpott Chapter upcoming events can be found on Meetup: [OWASP Ruhrpott Chapter Meetup](https://www.meetup.com/notyetdefined/)
+OWASP Ruhrpott Chapter upcoming events can be found on Meetup: [OWASP Ruhrpott Chapter Meetup](https://www.meetup.com/owasp-ruhrpott-chapter/)
 
 ## Call for Venues
 We are looking for upcoming venues to host our OWASP Ruhrpott Chapter, preferably in a central location which can host around 20 - 50 attendees.
