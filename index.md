@@ -25,7 +25,7 @@ Feel free to refer colleagues or acquaintances to our website or individual meet
 
 ### Upcoming events
 
-Stay informed about our events by joining the [OWASP Ruhrpott Meetup Group](https://www.meetup.com/owasp-ruhrpott-chapter/) or visiting our [Upcoming Events](https://owasp.org/www-chapter-ruhrpott#div-nextevent) page.
+Stay informed about our events by joining the [OWASP Ruhrpott Meetup Group](https://www.meetup.com/owasp-ruhrpott-chapter/) or visiting our [Upcoming Events](https://owasp.org/www-chapter-ruhrpott#div-nextevents) page.
 
 ### Agenda
 
