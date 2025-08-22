@@ -12,7 +12,7 @@
 
 ### Social Links
 * [Meetup](https://www.meetup.com/owasp-ruhrpott-chapter/)
-* [Slack](https://owasp.org/slack/invite) in `chapter-ruhrpott`
+* [Discord](https://discord.gg/dCWJtwJjHb)
 
 ### Code Repository
 * [Page Repo](https://github.com/OWASP/www-chapter-ruhrpott)
