@@ -1,0 +1,27 @@
+community:
+  - name: chapter-ruhrpott
+    platform: slack
+    url: https://owasp.slack.com/archives/C090UNHMQ10
+leaders:
+  - name: Christian Becker
+    email: christian.becker@owasp.org
+    github: 0xchrisb
+  - name: Sven Schlüter
+    email: sven.schlueter@owasp.org
+location:
+  country: Germany
+  country_code: DE
+  region: Germany
+  city: Nordrhein-Westfalen
+  latitude: 51.51751795
+  longitude: 7.1439182017132445
+name: OWASP Ruhrpott
+repositories:
+  - name: www-chapter-ruhrpott
+    url: https://github.com/OWASP/www-chapter-ruhrpott
+    description: OWASP Foundation web repository
+tags:
+  - ruhrpott
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-ruhrpott
